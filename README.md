@@ -1,2 +1,3 @@
-# go
-Game of Go
+# Go
+A game of Go made with Unity.
+
